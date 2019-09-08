@@ -1,0 +1,8 @@
+'git push origin <nome da branch> --delete' -------------- deleta branch do site do git hub
+'git status' -------------- ve quais alterações tem para serem feitas do working dir para stage (o que foi adicionado para commitar).
+'git add <arquivo>' ------------ adiciona as alterações para commitar 
+'git pull' ------------ atualiza o diretório igual ao do git hub
+'git checkout <branch>' ---------------- muda de branch
+'git checkout -b <nome da branch>' ----------- cria uma branch nova com o nome passado
+'git commit -m "<comentario a adicionar>"' -------------- commita o que está em verde adicionado pelo git add (obrigatório comentário).
+'git push'----------------- todos os arquivos commitados são definitivamente adicionados/alterados no git hub
